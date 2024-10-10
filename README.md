@@ -150,7 +150,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/8625148c-bc7c-4616-88af-7c79061fcf6b)
+![WhatsApp Image 2024-10-10 at 10 57 23_d1f0c2f1](https://github.com/user-attachments/assets/22e37812-c397-42a3-b9e7-030eb38e644e)
+
 
 
 ## RESULT
